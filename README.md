@@ -1,5 +1,5 @@
 # 🏹 Astra 
-<img width="753" alt="Screenshot 2022-10-21 at 10 55 14 PM" src="https://user-images.githubusercontent.com/33492814/197254073-30c8b5f2-0341-41d7-8d50-efcdb6990e65.png">
+<img width="737" alt="Screenshot 2022-10-21 at 11 01 12 PM" src="https://user-images.githubusercontent.com/33492814/197255224-463088ea-a4e6-49f2-9b2f-8c3f293e39ad.png">
 
 A tool to check subdomain takeover vulnerabilities written in Python <3
 
